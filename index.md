@@ -10,6 +10,8 @@ layout: default
 
 [Deep Learning](./DeepLearning.html)
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 * * *
 
 [Natural Language Processing](./NaturalLanguageProcessing.html)
