@@ -8,7 +8,7 @@ Reference:
 
 1. [https://www.certifiedanalytics.org](https://www.certifiedanalytics.org)
 
-## I ...
+## I Resources
 ```
 AB testing:
 www.evanmiller.org/ab-testing/chi-squared.html
