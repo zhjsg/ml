@@ -87,11 +87,21 @@ Low p -> reject null
 High p -> fail to reject null
 ```
 1. Null Hypothesis (H0)
-*   Treats Everything same
-*   Treats Everything equal
-*   No difference between groups
-
-1. ...
+```
+Treats Everything same
+Treats Everything equal
+No difference between groups
+```
+1. 7 Steps of Machine Learning
+```
+1. Gathering Data
+2. Preparing that Data
+3. Choosing a Model
+4. Training
+5. Evaluation
+6. Hyperparameter Tuning
+7. Prediction
+```
 
 ## II ...
 
