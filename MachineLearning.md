@@ -85,7 +85,7 @@ https://sdsclub.com/bert-google-nlp-algorithm/
 *   Low p -> reject null
 *   High p -> fail to reject null
 
-*   Null Hypothesis (H0)
+1. Null Hypothesis (H0)
 *   Treats Everything same
 *   Treats Everything equal
 *   No difference between groups
