@@ -102,7 +102,14 @@ No difference between groups
 6. Hyperparameter Tuning
 7. Prediction
 ```
+1. Artificially Intelligent
+```
+1. Generalized learning
+2. Reasoning
+3. Problem solving
 
+AI provide machine to adapt, reason and provide solutions.
+```
 ## II ...
 
 1. ...
