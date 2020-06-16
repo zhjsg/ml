@@ -2,30 +2,22 @@
 layout: default
 ---
 
-[Employee Attrition & Performance](./EmployeeAnalysis.html)
+[Machine Learning](./MachineLearning.html)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 * * *
 
-[CAP Best Practice](./CAPBestPractice.html)
+[Deep Learning](./DeepLearning.html)
 
 * * *
 
-[COVID-19 SG Analysis](./COVID-19_SG.html)
+[Natural Language Processing](./NaturalLanguageProcessing.html)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 * * *
 
-[Unemployment Rate Analysis](./EmployeeAnalysis.html)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-* * *
-
-[SG Stock Analysis](./EmployeeAnalysis.html)
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 * * *
