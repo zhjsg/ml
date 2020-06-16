@@ -9,7 +9,7 @@ Reference:
 1. [https://www.certifiedanalytics.org](https://www.certifiedanalytics.org)
 
 ## I ...
-
+```
 AB testing:
 www.evanmiller.org/ab-testing/chi-squared.html
 
@@ -78,7 +78,7 @@ https://colab.research.google.com/drive/1NvffaS8wAmCPEjU6R_tF3b8FxkdVhFR5
 Natural Language Processing (NLP) with BERT 
 https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview
 https://sdsclub.com/bert-google-nlp-algorithm/
-
+```
 1. Statistical definition of p value
 *   P value is “The probability” for the “Null Hypothesis” to be “True”
 *   P value (any value from 0 to 1)
