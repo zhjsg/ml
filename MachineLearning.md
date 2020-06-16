@@ -80,11 +80,12 @@ https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture
 https://sdsclub.com/bert-google-nlp-algorithm/
 ```
 1. Statistical definition of p value
-*   P value is “The probability” for the “Null Hypothesis” to be “True”
-*   P value (any value from 0 to 1)
-*   Low p -> reject null
-*   High p -> fail to reject null
-
+```
+P value is “The probability” for the “Null Hypothesis” to be “True”
+P value (any value from 0 to 1)
+Low p -> reject null
+High p -> fail to reject null
+```
 1. Null Hypothesis (H0)
 *   Treats Everything same
 *   Treats Everything equal
