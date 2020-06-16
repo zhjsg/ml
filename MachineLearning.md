@@ -79,20 +79,20 @@ Natural Language Processing (NLP) with BERT
 https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview
 https://sdsclub.com/bert-google-nlp-algorithm/
 ```
-1. Statistical definition of p value
+Statistical definition of p value
 ```
 P value is “The probability” for the “Null Hypothesis” to be “True”
 P value (any value from 0 to 1)
 Low p -> reject null
 High p -> fail to reject null
 ```
-1. Null Hypothesis (H0)
+Null Hypothesis (H0)
 ```
 Treats Everything same
 Treats Everything equal
 No difference between groups
 ```
-1. 7 Steps of Machine Learning
+7 Steps of Machine Learning
 ```
 1. Gathering Data
 2. Preparing that Data
@@ -102,7 +102,7 @@ No difference between groups
 6. Hyperparameter Tuning
 7. Prediction
 ```
-1. Artificially Intelligent
+Artificially Intelligent
 ```
 1. Generalized learning
 2. Reasoning
