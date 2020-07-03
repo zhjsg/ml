@@ -112,6 +112,20 @@ AI provide machine to adapt, reason and provide solutions.
 ```
 
 Data Structures in R
+<table>
+  <tr>
+    <th>Dimension</th> <th>Homogenous</th> <th>Heterogeneous</th>
+  </tr>
+  <tr>
+    <td>1D</td> <td>Vector</td> <td>List</td>
+  </tr>
+  <tr>
+    <td>2D</td> <td>Matrix</td> <td>Dataframe</td>
+  </tr>
+  <tr>
+    <td>nD</td> <td>Array</td> <td></td>
+  </tr>
+</table> 
 | Dimension    | Homogenous        | Heterogeneous |
 |:-------------|:------------------|:--------------|
 | 1D           | Vector            | List          |
@@ -119,6 +133,20 @@ Data Structures in R
 | nD           | Array             |               |
 
 Data Structures in Python
+<table>
+  <tr>
+    <th>Dimension</th> <th>Homogenous</th> <th>Heterogeneous</th>
+  </tr>
+  <tr>
+    <td>1D</td> <td>Array</td> <td>Tuple, Set</td>
+  </tr>
+  <tr>
+    <td>2D</td> <td></td> <td></td>
+  </tr>
+  <tr>
+    <td>nD</td> <td></td> <td>List, Dictionary</td>
+  </tr>
+</table>
 | Dimension    | Homogenous        | Heterogeneous   |
 |:-------------|:------------------|:----------------|
 | 1D           | Array             | Tuple, Set      |
