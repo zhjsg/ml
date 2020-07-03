@@ -155,8 +155,8 @@ Data Structures in Python
 | Dimension    | Homogenous        | Heterogeneous   |
 |:-------------|:------------------|:----------------|
 | 1D           | Array             | Tuple, Set      |
-| 2D           | 1                 | 1               |
-| nD           | 1                 | List, Dictionary|
+| 2D           |                   |                 |
+| nD           |                   | List, Dictionary|
 
 
 ## II ...
