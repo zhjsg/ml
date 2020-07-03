@@ -126,11 +126,14 @@ Data Structures in R
     <td>nD</td> <td>Array</td> <td></td>
   </tr>
 </table> 
+
+
 | Dimension    | Homogenous        | Heterogeneous |
 |:-------------|:------------------|:--------------|
 | 1D           | Vector            | List          |
 | 2D           | Matrix            | Dataframe     |
 | nD           | Array             |               |
+
 
 Data Structures in Python
 <table>
@@ -147,11 +150,14 @@ Data Structures in Python
     <td>nD</td> <td></td> <td>List, Dictionary</td>
   </tr>
 </table>
+
+
 | Dimension    | Homogenous        | Heterogeneous   |
 |:-------------|:------------------|:----------------|
 | 1D           | Array             | Tuple, Set      |
 | 2D           | 1                 | 1               |
 | nD           | 1                 | List, Dictionary|
+
 
 ## II ...
 
