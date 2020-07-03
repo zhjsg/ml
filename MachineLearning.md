@@ -109,23 +109,7 @@ Artificially Intelligent
 3. Problem solving
 
 AI provide machine to adapt, reason and provide solutions.
-```
-
-Data Structures in R
-<table>
-  <tr>
-    <th>Dimension</th> <th>Homogenous</th> <th>Heterogeneous</th>
-  </tr>
-  <tr>
-    <td>1D</td> <td>Vector</td> <td>List</td>
-  </tr>
-  <tr>
-    <td>2D</td> <td>Matrix</td> <td>Dataframe</td>
-  </tr>
-  <tr>
-    <td>nD</td> <td>Array</td> <td></td>
-  </tr>
-</table> 
+``` 
 
 Data Structures in Python
 <table>
@@ -140,6 +124,22 @@ Data Structures in Python
   </tr>
   <tr>
     <td>nD</td> <td></td> <td>List, Dictionary</td>
+  </tr>
+</table>
+
+Data Structures in R
+<table>
+  <tr>
+    <th>Dimension</th> <th>Homogenous</th> <th>Heterogeneous</th>
+  </tr>
+  <tr>
+    <td>1D</td> <td>Vector</td> <td>List</td>
+  </tr>
+  <tr>
+    <td>2D</td> <td>Matrix</td> <td>Dataframe</td>
+  </tr>
+  <tr>
+    <td>nD</td> <td>Array</td> <td></td>
   </tr>
 </table>
 
