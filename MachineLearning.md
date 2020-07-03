@@ -110,6 +110,7 @@ Artificially Intelligent
 
 AI provide machine to adapt, reason and provide solutions.
 ```
+```
 Data Structures in R
 | Dimension    | Homogenous        | Heterogeneous |
 |:-------------|:------------------|:--------------|
@@ -123,7 +124,7 @@ Data Structures in Python
 | 1D           | Array             | Tuple, Set      |
 | 2D           |                   |                 |
 | nD           |                   | List, Dictionary|
-
+```
 ## II ...
 
 1. ...
