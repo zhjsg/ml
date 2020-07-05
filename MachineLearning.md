@@ -146,16 +146,16 @@ Data Structures in R
 Four main types of analytics
 <table>
   <tr>
-    <td>Descriptive analytics</td> <td>What happend</td> <td>JDA</td>
+    <td>Descriptive analytics</td> <td>What happend?</td> <td>JDA</td>
   </tr>
   <tr>
-    <td>Diagnostic analytics</td> <td>Why did it happen</td> <td>SDA</td>
+    <td>Diagnostic analytics</td> <td>Why did it happen?</td> <td>SDA</td>
   </tr>
   <tr>
-    <td>Predictive analytics</td> <td>What will happen</td> <td>JDS</td>
+    <td>Predictive analytics</td> <td>What will happen?</td> <td>JDS</td>
   </tr>
   <tr>
-    <td>Prescriptive analytics</td> <td>How to make it happen</td> <td>SDS</td>
+    <td>Prescriptive analytics</td> <td>How to make it happen?</td> <td>SDS</td>
   </tr>
 </table>
   
