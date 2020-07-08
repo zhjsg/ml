@@ -79,6 +79,37 @@ Natural Language Processing (NLP) with BERT
 https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview
 https://sdsclub.com/bert-google-nlp-algorithm/
 ```
+Machine learning
+<table>
+  <tr>
+    <td>Regression</td> <td>Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree, Random Forest</td> <td></td>
+  </tr>
+  <tr>
+    <td>Classification</td> <td>Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree, Random Forest</td> <td></td>
+  </tr>
+  <tr>
+    <td>Clustering</td> <td>K-Means, Hierarchical Clustering</td> <td></td>
+  </tr>
+  <tr>
+    <td>Association Rule Learning</td> <td>Apriori, Eclat</td> <td></td>
+  </tr>
+  <tr>
+    <td>Reinforcement Learning</td> <td>Upper Confidence Bound, Thompson Sampling</td> <td></td>
+  </tr>
+  <tr>
+    <td>Natural Language Learning</td> <td>Bag-of-words model and algorithms for NLP</td> <td></td>
+  </tr>
+  <tr>
+    <td>Deep Learning</td> <td>Artificial Neural Networks, Convolutional Neural Networks</td> <td></td>
+  </tr>
+  <tr>
+    <td>Dimensionality Reduction</td> <td>PCA, LDA, Kernel PCA</td> <td></td>
+  </tr>
+  <tr>
+    <td>Boosting</td> <td>k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost</td> <td></td>
+  </tr>
+</table>
+
 Statistical definition of p value
 ```
 P value is “The probability” for the “Null Hypothesis” to be “True”
