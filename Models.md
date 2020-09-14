@@ -16,7 +16,7 @@ D. Specific Neuron is activated
 
 1. Multiple Linear Regression
 
-1. Polynomial Regression
+1. Polynomial Linear Regression
 
 1. Support Vector Regression
 
@@ -100,6 +100,32 @@ D. Specific Neuron is activated
 
 Reference:
 
-1. [https://www.xxx.org](https://www.xxx.org)
+1. [https://www.superdatascience.com/blogs/regression-classification-simple-linear-regression-step-1](https://www.superdatascience.com/blogs/regression-classification-simple-linear-regression-step-1)
+2. [https://medium.com/analytics-vidhya/new-aspects-to-consider-while-moving-from-simple-linear-regression-to-multiple-linear-regression-dad06b3449ff](https://medium.com/analytics-vidhya/new-aspects-to-consider-while-moving-from-simple-linear-regression-to-multiple-linear-regression-dad06b3449ff)
+3. [https://www.kaggle.com/pankeshpatel/polynomial-linear-regression-tutorial](https://www.kaggle.com/pankeshpatel/polynomial-linear-regression-tutorial)
+4. [https://www.nosimpler.me/polynomial-regression/](https://www.nosimpler.me/polynomial-regression/)
+5. [https://www.saedsayad.com/support_vector_machine_reg.htm](https://www.saedsayad.com/support_vector_machine_reg.htm)
+6. [https://towardsdatascience.com/https-medium-com-lorrli-classification-and-regression-analysis-with-decision-trees-c43cdbc58054](https://towardsdatascience.com/https-medium-com-lorrli-classification-and-regression-analysis-with-decision-trees-c43cdbc58054)
+7. [https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454f](https://towardsdatascience.com/random-forest-and-its-implementation-71824ced454f)
+8. [https://www.slideshare.net/kaz_yos/visual-explanation-of-ridge-regression-and-lasso](https://www.slideshare.net/kaz_yos/visual-explanation-of-ridge-regression-and-lasso)
+9. [https://www.saedsayad.com/logistic_regression.htm](https://www.saedsayad.com/logistic_regression.htm)
+10.[https://towardsdatascience.com/knn-k-nearest-neighbors-1-a4707b24bd1d](https://towardsdatascience.com/knn-k-nearest-neighbors-1-a4707b24bd1d)
+11.[https://www.saedsayad.com/support_vector_machine.htm](https://www.saedsayad.com/support_vector_machine.htm)
+12.[https://stats.stackexchange.com/questions/422902/what-are-kernels-in-support-vector-machine](https://stats.stackexchange.com/questions/422902/what-are-kernels-in-support-vector-machine)
+13.[https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
+14.[https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/](https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/)
+15.[https://www.jeremyjordan.me/decision-trees/](https://www.jeremyjordan.me/decision-trees/)
+16.[https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d)
+17.[http://sherrytowers.com/2013/10/24/k-means-clustering/](http://sherrytowers.com/2013/10/24/k-means-clustering/)
+18.[https://www.displayr.com/what-is-hierarchical-clustering/](https://www.displayr.com/what-is-hierarchical-clustering/)
+19.[https://www.sites.google.com/site/getallcodesyouwant/data-mining/apriori-algorithm](https://www.sites.google.com/site/getallcodesyouwant/data-mining/apriori-algorithm)
+20.[https://www.slideshare.net/wanaezwani/apriori-and-eclat-algorithm-in-association-rule-mining](https://www.slideshare.net/wanaezwani/apriori-and-eclat-algorithm-in-association-rule-mining)
+21.[]()
+22.[]()
+23.[]()
+24.[]()
+25.[]()
+26.[]()
+
 
 [BACK](./)
