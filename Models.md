@@ -12,7 +12,7 @@ layout: default
     <td>1</td><td>Regression</td><td>Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, Ridge Regression, Lasso Regression</td>
   </tr>
   <tr>
-    <td>2</td><td>Classification</td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernal SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
+    <td>2</td><td>Classification</td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
   </tr>
   <tr>
     <td>3</td><td>Clustering</td><td>K-Means, Hierarchical Clustering</td>
@@ -30,7 +30,7 @@ layout: default
     <td>7</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
   </tr>
   <tr>
-    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Latent Dirichlet allocation, Kernal PCA</td>
+    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Latent Dirichlet allocation, Kernel PCA</td>
   </tr>
   <tr>
     <td>9</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
@@ -87,10 +87,10 @@ layout: default
 
 ![SVM_1](./images/Models/SVM_1.png)
 
-4. Kernal SVM
+4. Kernel SVM
 
-![KernalSVM_1](./images/Models/KernalSVM_1.png)
-![KernalSVM_2](./images/Models/KernalSVM_2.png)
+![KernelSVM_1](./images/Models/KernelSVM_1.png)
+![KernelSVM_2](./images/Models/KernelSVM_2.png)
 
 5. Naive Bayes
 
@@ -176,7 +176,7 @@ layout: default
 
 ![](./images/Models/)
 
-3. Kernal PCA
+3. Kernel PCA
 
 ![](./images/Models/)
 
