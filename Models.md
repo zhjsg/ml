@@ -72,96 +72,122 @@ layout: default
 ## II. Classification
 
 1. Logistic Regression
+
 ![LogisticRegression_1](./images/Models/LogisticRegression_1.png)
 
 1. K Nearest Neighbours
+
 ![KNN_1](./images/Models/KNN_1.png)
 
 1. Support Vector Machine
+
 ![SVM_1](./images/Models/SVM_1.png)
 
 1. Kernal SVM
+
 ![KernalSVM_1](./images/Models/KernalSVM_1.png)
 ![KernalSVM_2](./images/Models/KernalSVM_2.png)
 
 1. Naive Bayes
+
 ![NaiveBayes_1](./images/Models/NaiveBayes_1.png)
 
 1. Decision Tree Classification
+
 ![DecisionTreeClassification_1](./images/Models/DecisionTreeClassification_1.png)
 
 1. Random Forest Classification
+
 ![RandomForestClassification_1](./images/Models/RandomForestClassification_1.png)
 
 ## III. Clustering
 
 1. K-Means
+
 ![K-Means_1](./images/Models/K-Means_1.png)
 
 1. Hierarchical Clustering
+
 ![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
 ## IV. Association Rule Learning
 
 1. Apriori
+
 ![Apriori_1](./images/Models/Apriori_1.jpg)
 
 1. Eclat
+
 ![Eclat_1](./images/Models/Eclat_1.jpg)
 
 ## V. Reinforcement Learning
 
 1. Upper Confidence Bound
+
 ![](./images/Models/)
 
 1. Thompson Sampling
+
 ![](./images/Models/)
 
 ## VI. Natural Language Processing
 
 1. Bag of words
+
 ![](./images/Models/)
 
 ## VII. Deep Learning
 
 1. Artificial Neural Network
+
 ![](./images/Models/)
 
 1. Convolutional Neural Network
+
 ![](./images/Models/)
 
 1. Recurrenct Neural Network
+
 ![](./images/Models/)
 
 1. Self-Organizing Maps
+
 ![](./images/Models/)
 
 1. Boltzmann Machines
+
 ![](./images/Models/)
 
 1. AutoEncoders
+
 ![](./images/Models/)
 
 ## VIII. Dimensionality Reduction
 
 1. Principal Component Analysis
+
 ![](./images/Models/)
 
 1. Latent Dirichlet allocation
+
 ![](./images/Models/)
 
 1. Kernal PCA
+
 ![](./images/Models/)
 
 ## IX. Boosting
 
 1. AdaBoost
+
 ![](./images/Models/)
 
 1. Gradient Boosting
+
 ![](./images/Models/)
 
 1. XGBoost
+
 ![](./images/Models/)
 
 * * *
