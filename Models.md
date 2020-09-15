@@ -118,27 +118,28 @@ layout: default
 
 ### 1. Apriori
 
-![Apriori_1](./images/Models/Apriori_1.jpg)
+![Apriori_1](./images/Models/Apriori_1.png)
 
 ### 2. Eclat
 
-![Eclat_1](./images/Models/Eclat_1.jpg)
+![Eclat_1](./images/Models/Eclat_1.png)
 
 ## V. Reinforcement Learning
 
 ### 1. Upper Confidence Bound
 
-![](./images/Models/)
+![UpperConfidenceBound_1](./images/Models/UpperConfidenceBound_1.png)
 
 ### 2. Thompson Sampling
 
-![](./images/Models/)
+![ThompsonSampling_1](./images/Models/ThompsonSampling_1.png)
 
 ## VI. Natural Language Processing
 
 ### 1. Bag of words
 
-![](./images/Models/)
+![BagOfWords_1](./images/Models/BagOfWords_1.png)
+![BagOfWords_2](./images/Models/BagOfWords_2.png)
 
 ## VII. Deep Learning
 
@@ -221,6 +222,16 @@ Reference:
 1. [https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/](https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/)
 1. [https://developpaper.com/a-zthompson-sampling-algorithms-for-machine-learning/](https://developpaper.com/a-zthompson-sampling-algorithms-for-machine-learning/)
 1. [https://gdmarmerola.github.io/ts-for-bernoulli-bandit/](https://gdmarmerola.github.io/ts-for-bernoulli-bandit/)
+1. [http://prog3.com/sbdm/blog/google19890102/article/details/49359161](http://prog3.com/sbdm/blog/google19890102/article/details/49359161)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 1. []()
