@@ -40,94 +40,122 @@ layout: default
 ## I. Regression
 
 1. Simple Linear Regression 
-```
-A. The weighted sum of inputs is calculated
-B. The Bias is added
-C. The result is fed to an activation function
-D. Specific Neuron is activated
-```
+![SimpleLinearRegression_1](./images/Models/SimpleLinearRegression_1.png)
 
 1. Multiple Linear Regression
+![MultipleLinearRegression_1](./images/Models/MultipleLinearRegression_1.png)
 
 1. Polynomial Linear Regression
+![PloynomialLinearRegression_1](./images/Models/PloynomialLinearRegression_1.png)
+![PloynomialLinearRegression_2](./images/Models/PloynomialLinearRegression_2.png)
 
 1. Support Vector Regression
+![SVR_1](./images/Models/SVR_1.png)
+![SVR_2](./images/Models/SVR_2.png)
 
 1. Decision Tree Regression
+![DecisionTreeRegression_1](./images/Models/DecisionTreeRegression_1.png)
 
 1. Random Forest Regression
+![RandomForestRegression_1](./images/Models/RandomForestRegression_1.png)
 
-1. Ridge Regression
-
-1. Lasso Regression
+1. Ridge Regression and Lasso Regression
+![RidgeRegressionAndLasso_1](./images/Models/RidgeRegressionAndLasso_1.jpg)
 
 ## II. Classification
 
 1. Logistic Regression
+![LogisticRegression_1](./images/Models/LogisticRegression_1.png)
 
 1. K Nearest Neighbours
+![KNN_1](./images/Models/KNN_1.png)
 
 1. Support Vector Machine
+![SVM_1](./images/Models/SVM_1.png)
 
 1. Kernal SVM
+![KernalSVM_1](./images/Models/KernalSVM_1.png)
+![KernalSVM_2](./images/Models/KernalSVM_2.png)
 
 1. Naive Bayes
+![NaiveBayes_1](./images/Models/NaiveBayes_1.png)
 
 1. Decision Tree Classification
+![DecisionTreeClassification_1](./images/Models/DecisionTreeClassification_1.png)
 
 1. Random Forest Classification
+![RandomForestClassification_1](./images/Models/RandomForestClassification_1.png)
 
 ## III. Clustering
 
 1. K-Means
+![K-Means_1](./images/Models/K-Means_1.png)
 
 1. Hierarchical Clustering
+![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
 ## IV. Association Rule Learning
 
 1. Apriori
+![Apriori_1](./images/Models/Apriori_1.jpg)
 
 1. Eclat
+![Eclat_1](./images/Models/Eclat_1.jpg)
 
 ## V. Reinforcement Learning
 
 1. Upper Confidence Bound
+![](./images/Models/)
 
 1. Thompson Sampling
+![](./images/Models/)
 
 ## VI. Natural Language Processing
 
 1. Bag of words
+![](./images/Models/)
 
 ## VII. Deep Learning
 
 1. Artificial Neural Network
+![](./images/Models/)
 
 1. Convolutional Neural Network
+![](./images/Models/)
 
 1. Recurrenct Neural Network
+![](./images/Models/)
 
 1. Self-Organizing Maps
+![](./images/Models/)
 
 1. Boltzmann Machines
+![](./images/Models/)
 
 1. AutoEncoders
+![](./images/Models/)
 
 ## VIII. Dimensionality Reduction
 
 1. Principal Component Analysis
+![](./images/Models/)
 
 1. Latent Dirichlet allocation
+![](./images/Models/)
 
 1. Kernal PCA
+![](./images/Models/)
 
 ## IX. Boosting
 
 1. AdaBoost
+![](./images/Models/)
 
 1. Gradient Boosting
+![](./images/Models/)
 
 1. XGBoost
+![](./images/Models/)
 
 * * *
 
