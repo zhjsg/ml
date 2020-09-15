@@ -145,27 +145,32 @@ layout: default
 
 ### 1. Artificial Neural Network
 
-![](./images/Models/)
+![ANN_1](./images/Models/ANN_1.png)
+![ANN_2](./images/Models/ANN_2.png)
 
 ### 2. Convolutional Neural Network
 
-![](./images/Models/)
+![CNN_1](./images/Models/CNN_1.png)
+![CNN_2](./images/Models/CNN_2.png)
 
 ### 3. Recurrenct Neural Network
 
-![](./images/Models/)
+![RNN_1](./images/Models/RNN_1.png)
 
 ### 4. Self-Organizing Maps
 
-![](./images/Models/)
+![SOM_1](./images/Models/SOM_1.png)
+![SOM_2](./images/Models/SOM_2.png)
 
 ### 5. Boltzmann Machines
 
-![](./images/Models/)
+![BoltzmannMachine_1](./images/Models/BoltzmannMachine_1.png)
+![BoltzmannMachine_2](./images/Models/BoltzmannMachine_2.png)
 
 ### 6. AutoEncoders
 
-![](./images/Models/)
+![Autoencoder_1](./images/Models/Autoencoder_1.png)
+![Autoencoder_2](./images/Models/Autoencoder_2.png)
 
 ## VIII. Dimensionality Reduction
 
@@ -225,12 +230,12 @@ Reference:
 1. [http://prog3.com/sbdm/blog/google19890102/article/details/49359161](http://prog3.com/sbdm/blog/google19890102/article/details/49359161)
 1. [https://data-flair.training/blogs/artificial-neural-networks-for-machine-learning/](https://data-flair.training/blogs/artificial-neural-networks-for-machine-learning/)
 1. [https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [https://www.researchgate.net/figure/A-recurrent-neural-network-and-the-unfolding-architecture-U-V-and-W-are-the-weights-of_fig4_318991900](https://www.researchgate.net/figure/A-recurrent-neural-network-and-the-unfolding-architecture-U-V-and-W-are-the-weights-of_fig4_318991900)
+1. [https://en.wikipedia.org/wiki/Self-organizing_map](https://en.wikipedia.org/wiki/Self-organizing_map)
+1. [https://medium.com/@hereisakash/using-self-organizing-maps-to-solve-the-traveling-salesman-problem-f8e1c9952633](https://medium.com/@hereisakash/using-self-organizing-maps-to-solve-the-traveling-salesman-problem-f8e1c9952633)
+1. [https://medium.com/datadriveninvestor/an-intuitive-introduction-of-boltzmann-machine-8ec54980d789](https://medium.com/datadriveninvestor/an-intuitive-introduction-of-boltzmann-machine-8ec54980d789)
+1. [https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
+1. [https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/)
 1. []()
 1. []()
 1. []()
