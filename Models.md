@@ -43,29 +43,29 @@ layout: default
 
 ![SimpleLinearRegression_1](./images/Models/SimpleLinearRegression_1.png)
 
-1. Multiple Linear Regression
+2. Multiple Linear Regression
 
 ![MultipleLinearRegression_1](./images/Models/MultipleLinearRegression_1.png)
 
-1. Polynomial Linear Regression
+3. Polynomial Linear Regression
 
-![PloynomialLinearRegression_1](./images/Models/PloynomialLinearRegression_1.png)
-![PloynomialLinearRegression_2](./images/Models/PloynomialLinearRegression_2.png)
+![PolynomialLinearRegression_1](./images/Models/PolynomialLinearRegression_1.png)
+![PolynomialLinearRegression_2](./images/Models/PolynomialLinearRegression_2.png)
 
-1. Support Vector Regression
+4. Support Vector Regression
 
 ![SVR_1](./images/Models/SVR_1.png)
 ![SVR_2](./images/Models/SVR_2.png)
 
-1. Decision Tree Regression
+5. Decision Tree Regression
 
 ![DecisionTreeRegression_1](./images/Models/DecisionTreeRegression_1.png)
 
-1. Random Forest Regression
+6. Random Forest Regression
 
 ![RandomForestRegression_1](./images/Models/RandomForestRegression_1.png)
 
-1. Ridge Regression and Lasso Regression
+7. Ridge Regression and Lasso Regression
 
 ![RidgeRegressionAndLasso_1](./images/Models/RidgeRegressionAndLasso_1.jpg)
 
@@ -75,28 +75,28 @@ layout: default
 
 ![LogisticRegression_1](./images/Models/LogisticRegression_1.png)
 
-1. K Nearest Neighbours
+2. K Nearest Neighbours
 
 ![KNN_1](./images/Models/KNN_1.png)
 
-1. Support Vector Machine
+3. Support Vector Machine
 
 ![SVM_1](./images/Models/SVM_1.png)
 
-1. Kernal SVM
+4. Kernal SVM
 
 ![KernalSVM_1](./images/Models/KernalSVM_1.png)
 ![KernalSVM_2](./images/Models/KernalSVM_2.png)
 
-1. Naive Bayes
+5. Naive Bayes
 
 ![NaiveBayes_1](./images/Models/NaiveBayes_1.png)
 
-1. Decision Tree Classification
+6. Decision Tree Classification
 
 ![DecisionTreeClassification_1](./images/Models/DecisionTreeClassification_1.png)
 
-1. Random Forest Classification
+7. Random Forest Classification
 
 ![RandomForestClassification_1](./images/Models/RandomForestClassification_1.png)
 
@@ -106,7 +106,7 @@ layout: default
 
 ![K-Means_1](./images/Models/K-Means_1.png)
 
-1. Hierarchical Clustering
+2. Hierarchical Clustering
 
 ![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
@@ -116,7 +116,7 @@ layout: default
 
 ![Apriori_1](./images/Models/Apriori_1.jpg)
 
-1. Eclat
+2. Eclat
 
 ![Eclat_1](./images/Models/Eclat_1.jpg)
 
@@ -126,7 +126,7 @@ layout: default
 
 ![](./images/Models/)
 
-1. Thompson Sampling
+2. Thompson Sampling
 
 ![](./images/Models/)
 
@@ -142,23 +142,23 @@ layout: default
 
 ![](./images/Models/)
 
-1. Convolutional Neural Network
+2. Convolutional Neural Network
 
 ![](./images/Models/)
 
-1. Recurrenct Neural Network
+3. Recurrenct Neural Network
 
 ![](./images/Models/)
 
-1. Self-Organizing Maps
+4. Self-Organizing Maps
 
 ![](./images/Models/)
 
-1. Boltzmann Machines
+5. Boltzmann Machines
 
 ![](./images/Models/)
 
-1. AutoEncoders
+6. AutoEncoders
 
 ![](./images/Models/)
 
@@ -168,11 +168,11 @@ layout: default
 
 ![](./images/Models/)
 
-1. Latent Dirichlet allocation
+2. Latent Dirichlet allocation
 
 ![](./images/Models/)
 
-1. Kernal PCA
+3. Kernal PCA
 
 ![](./images/Models/)
 
@@ -182,11 +182,11 @@ layout: default
 
 ![](./images/Models/)
 
-1. Gradient Boosting
+2. Gradient Boosting
 
 ![](./images/Models/)
 
-1. XGBoost
+3. XGBoost
 
 ![](./images/Models/)
 
