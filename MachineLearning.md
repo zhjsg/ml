@@ -190,7 +190,9 @@ Four main types of analytics
   </tr>
 </table>
   
+![fitting](./images/ML/fitting.png)
 
+From left to right : underfitting, fitting and overfitting. Over the same set of data we fit polynomial functions of various degrees. We can see that 1 degree polynomial function has not enough freedom while 20 degrees polynomial function has too much.
 ## II ...
 
 1. ...
