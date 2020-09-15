@@ -65,9 +65,12 @@ layout: default
 
 ![RandomForestRegression_1](./images/Models/RandomForestRegression_1.png)
 
-7. Ridge Regression and Lasso Regression
+7. Ridge Regression
 
-![RidgeRegressionAndLasso_1](./images/Models/RidgeRegressionAndLasso_1.jpg)
+![RidgeRegression_1](./images/Models/RidgeRegression_1.png)
+
+8. Lasso Regression
+![LassoRegression_1](./images/Models/LassoRegression_1.png)
 
 ## II. Classification
 
