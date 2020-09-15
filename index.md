@@ -21,7 +21,7 @@ layout: default
 * * *
 [Models](./Models.html)
 
-![Models](./images/Models/MLmodels_3.png)
+![Models](./images/MLmodels.png)
 
 
 * * *
