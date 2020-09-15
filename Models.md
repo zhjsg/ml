@@ -70,6 +70,7 @@ layout: default
 ![RidgeRegression_1](./images/Models/RidgeRegression_1.png)
 
 8. Lasso Regression
+
 ![LassoRegression_1](./images/Models/LassoRegression_1.png)
 
 ## II. Classification
