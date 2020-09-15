@@ -220,7 +220,7 @@ Reference:
 1. [https://www.slideshare.net/wanaezwani/apriori-and-eclat-algorithm-in-association-rule-mining](https://www.slideshare.net/wanaezwani/apriori-and-eclat-algorithm-in-association-rule-mining)
 1. [https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/](https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/)
 1. [https://developpaper.com/a-zthompson-sampling-algorithms-for-machine-learning/](https://developpaper.com/a-zthompson-sampling-algorithms-for-machine-learning/)
-1. []()
+1. [https://gdmarmerola.github.io/ts-for-bernoulli-bandit/](https://gdmarmerola.github.io/ts-for-bernoulli-bandit/)
 1. []()
 1. []()
 1. []()
