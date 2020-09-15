@@ -4,6 +4,39 @@ layout: default
 
 [BACK](./)
 
+<table>
+  <tr>
+    <th>ID</th><th>Category</th><th>Models</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Regression</td><td>Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, Ridge Regression, Lasso Regression</td>
+  </tr>
+  <tr>
+    <td>2</td>Classification<td></td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernal SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
+
 ## I Regression
 
 1. Simple Linear Regression 
