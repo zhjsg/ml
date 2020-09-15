@@ -21,7 +21,7 @@ layout: default
 * * *
 [Models](./Models.html)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Models](./images/Models/MLmodels.png)
 
 
 * * *
