@@ -75,122 +75,122 @@ layout: default
 
 ## II. Classification
 
-1. Logistic Regression
+### 1. Logistic Regression
 
 ![LogisticRegression_1](./images/Models/LogisticRegression_1.png)
 
-2. K Nearest Neighbours
+### 2. K Nearest Neighbours
 
 ![KNN_1](./images/Models/KNN_1.png)
 
-3. Support Vector Machine
+### 3. Support Vector Machine
 
 ![SVM_1](./images/Models/SVM_1.png)
 
-4. Kernel SVM
+### 4. Kernel SVM
 
 ![KernelSVM_1](./images/Models/KernelSVM_1.png)
 ![KernelSVM_2](./images/Models/KernelSVM_2.png)
 
-5. Naive Bayes
+### 5. Naive Bayes
 
 ![NaiveBayes_1](./images/Models/NaiveBayes_1.png)
 
-6. Decision Tree Classification
+### 6. Decision Tree Classification
 
 ![DecisionTreeClassification_1](./images/Models/DecisionTreeClassification_1.png)
 
-7. Random Forest Classification
+### 7. Random Forest Classification
 
 ![RandomForestClassification_1](./images/Models/RandomForestClassification_1.png)
 
 ## III. Clustering
 
-1. K-Means
+### 1. K-Means
 
 ![K-Means_1](./images/Models/K-Means_1.png)
 
-2. Hierarchical Clustering
+### 2. Hierarchical Clustering
 
 ![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
 ## IV. Association Rule Learning
 
-1. Apriori
+### 1. Apriori
 
 ![Apriori_1](./images/Models/Apriori_1.jpg)
 
-2. Eclat
+### 2. Eclat
 
 ![Eclat_1](./images/Models/Eclat_1.jpg)
 
 ## V. Reinforcement Learning
 
-1. Upper Confidence Bound
+### 1. Upper Confidence Bound
 
 ![](./images/Models/)
 
-2. Thompson Sampling
+### 2. Thompson Sampling
 
 ![](./images/Models/)
 
 ## VI. Natural Language Processing
 
-1. Bag of words
+### 1. Bag of words
 
 ![](./images/Models/)
 
 ## VII. Deep Learning
 
-1. Artificial Neural Network
+### 1. Artificial Neural Network
 
 ![](./images/Models/)
 
-2. Convolutional Neural Network
+### 2. Convolutional Neural Network
 
 ![](./images/Models/)
 
-3. Recurrenct Neural Network
+### 3. Recurrenct Neural Network
 
 ![](./images/Models/)
 
-4. Self-Organizing Maps
+### 4. Self-Organizing Maps
 
 ![](./images/Models/)
 
-5. Boltzmann Machines
+### 5. Boltzmann Machines
 
 ![](./images/Models/)
 
-6. AutoEncoders
+### 6. AutoEncoders
 
 ![](./images/Models/)
 
 ## VIII. Dimensionality Reduction
 
-1. Principal Component Analysis
+### 1. Principal Component Analysis
 
 ![](./images/Models/)
 
-2. Latent Dirichlet allocation
+### 2. Latent Dirichlet allocation
 
 ![](./images/Models/)
 
-3. Kernel PCA
+### 3. Kernel PCA
 
 ![](./images/Models/)
 
 ## IX. Boosting
 
-1. AdaBoost
+### 1. AdaBoost
 
 ![](./images/Models/)
 
-2. Gradient Boosting
+### 2. Gradient Boosting
 
 ![](./images/Models/)
 
-3. XGBoost
+### 3. XGBoost
 
 ![](./images/Models/)
 
