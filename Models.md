@@ -12,32 +12,32 @@ layout: default
     <td>1</td><td>Regression</td><td>Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, Ridge Regression, Lasso Regression</td>
   </tr>
   <tr>
-    <td>2</td>Classification<td></td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernal SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
+    <td>2</td><td>Classification</td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernal SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>3</td><td>Clustering</td><td>K-Means, Hierarchical Clustering</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>4</td><td>Association Rule Learning</td><td>Apriori, Eclat</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>5</td><td>Reinforcement Learning</td><td>Upper Confidence Bound, Thompson Sampling</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>6</td><td>Natural Language Learning</td><td>Bag of Words</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>7</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Latent Dirichlet allocation, Kernal PCA</td>
   </tr>
   <tr>
-    <td></td><td></td><td></td>
+    <td>9</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
   </tr>
 </table>
 
-## I Regression
+## I. Regression
 
 1. Simple Linear Regression 
 ```
@@ -61,7 +61,7 @@ D. Specific Neuron is activated
 
 1. Lasso Regression
 
-## II Classification
+## II. Classification
 
 1. Logistic Regression
 
@@ -77,29 +77,29 @@ D. Specific Neuron is activated
 
 1. Random Forest Classification
 
-## III Clustering
+## III. Clustering
 
 1. K-Means
 
 1. Hierarchical Clustering
 
-## IV Association Rule Learning
+## IV. Association Rule Learning
 
 1. Apriori
 
 1. Eclat
 
-## V Reinforcement Learning
+## V. Reinforcement Learning
 
 1. Upper Confidence Bound
 
 1. Thompson Sampling
 
-## VI Natural Language Processing
+## VI. Natural Language Processing
 
 1. Bag of words
 
-## VII Deep Learning
+## VII. Deep Learning
 
 1. Artificial Neural Network
 
@@ -113,7 +113,7 @@ D. Specific Neuron is activated
 
 1. AutoEncoders
 
-## VIII Dimensionality Reduction
+## VIII. Dimensionality Reduction
 
 1. Principal Component Analysis
 
@@ -121,7 +121,7 @@ D. Specific Neuron is activated
 
 1. Kernal PCA
 
-## IX Boosting
+## IX. Boosting
 
 1. AdaBoost
 
