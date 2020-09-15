@@ -39,37 +39,37 @@ layout: default
 
 ## I. Regression
 
-1. Simple Linear Regression
+### 1. Simple Linear Regression
 
 ![SimpleLinearRegression_1](./images/Models/SimpleLinearRegression_1.png)
 
-2. Multiple Linear Regression
+### 2. Multiple Linear Regression
 
 ![MultipleLinearRegression_1](./images/Models/MultipleLinearRegression_1.png)
 
-3. Polynomial Linear Regression
+### 3. Polynomial Linear Regression
 
 ![PolynomialLinearRegression_1](./images/Models/PolynomialLinearRegression_1.png)
 ![PolynomialLinearRegression_2](./images/Models/PolynomialLinearRegression_2.png)
 
-4. Support Vector Regression
+### 4. Support Vector Regression
 
 ![SVR_1](./images/Models/SVR_1.png)
 ![SVR_2](./images/Models/SVR_2.png)
 
-5. Decision Tree Regression
+### 5. Decision Tree Regression
 
 ![DecisionTreeRegression_1](./images/Models/DecisionTreeRegression_1.png)
 
-6. Random Forest Regression
+### 6. Random Forest Regression
 
 ![RandomForestRegression_1](./images/Models/RandomForestRegression_1.png)
 
-7. Ridge Regression
+### 7. Ridge Regression
 
 ![RidgeRegression_1](./images/Models/RidgeRegression_1.png)
 
-8. Lasso Regression
+### 8. Lasso Regression
 
 ![LassoRegression_1](./images/Models/LassoRegression_1.png)
 
