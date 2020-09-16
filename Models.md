@@ -176,29 +176,37 @@ layout: default
 
 ### 1. Principal Component Analysis
 
-![](./images/Models/)
+![PCA_1](./images/Models/PCA_1.png)
+![PCA_2](./images/Models/PCA_2.png)
+
+(A) A simple object described by a complex set of variables (or coordinate system). 
+(B) Find new variables (coordinate axes) orthogonal to each other and pointing to the direction of largest variances. 
+(C) Use new variables (coordinate axes) to describe object in a more concise way.
 
 ### 2. Latent Dirichlet allocation
 
-![](./images/Models/)
+![LDA_1](./images/Models/LDA_1.png)
+![LDA_2](./images/Models/LDA_2.png)
 
 ### 3. Kernel PCA
 
-![](./images/Models/)
+![KernelPCA_1](./images/Models/KernelPCA_1.png)
+![KernelPCA_2](./images/Models/KernelPCA_2.png)
 
 ## IX. Boosting
 
 ### 1. AdaBoost
 
-![](./images/Models/)
+![AdaBoost_1](./images/Models/AdaBoost_1.png)
+![AdaBoost_2](./images/Models/AdaBoost_2.png)
 
 ### 2. Gradient Boosting
 
-![](./images/Models/)
+![GradientBoosting_1](./images/Models/GradientBoosting_1.png)
 
 ### 3. XGBoost
 
-![](./images/Models/)
+![XGBoost_1](./images/Models/XGBoost_1.png)
 
 * * *
 
@@ -236,10 +244,17 @@ Reference:
 1. [https://medium.com/datadriveninvestor/an-intuitive-introduction-of-boltzmann-machine-8ec54980d789](https://medium.com/datadriveninvestor/an-intuitive-introduction-of-boltzmann-machine-8ec54980d789)
 1. [https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/](https://www.alanzucconi.com/2018/03/14/an-introduction-to-autoencoders/)
 1. [https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/)
-1. []()
-1. []()
-1. []()
-1. []()
+1. [http://www.nlpca.org/pca_principal_component_analysis.html](http://www.nlpca.org/pca_principal_component_analysis.html)
+1. [http://mengnote.blogspot.com/2013/05/an-intuitive-explanation-of-pca.html](http://mengnote.blogspot.com/2013/05/an-intuitive-explanation-of-pca.html)
+1. [https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc](https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc)
+1. [http://fourier.eng.hmc.edu/e176/lectures/ch8/node10.html](http://fourier.eng.hmc.edu/e176/lectures/ch8/node10.html)
+1. [https://www.researchgate.net/figure/PCA-and-Kernel-PCA-with-g-0001-d-3_fig1_337933124](https://www.researchgate.net/figure/PCA-and-Kernel-PCA-with-g-0001-d-3_fig1_337933124)
+1. [https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe](https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe)
+1. [https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)
+1. [https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
+1. [http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+1. [https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/boosting?ex=5](https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/boosting?ex=5)
+1. [https://xgboost.readthedocs.io/en/latest/tutorials/model.html](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
 
 
 [BACK](./)
