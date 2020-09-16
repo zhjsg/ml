@@ -179,9 +179,11 @@ layout: default
 ![PCA_1](./images/Models/PCA_1.png)
 ![PCA_2](./images/Models/PCA_2.png)
 
+```
 (A) A simple object described by a complex set of variables (or coordinate system). 
 (B) Find new variables (coordinate axes) orthogonal to each other and pointing to the direction of largest variances. 
 (C) Use new variables (coordinate axes) to describe object in a more concise way.
+```
 
 ### 2. Latent Dirichlet allocation
 
