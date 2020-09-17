@@ -25,3 +25,6 @@ layout: default
 
 
 * * *
+[Machine Learning Algorithms](./Algorithms.html)
+
+* * *
