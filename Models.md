@@ -30,7 +30,7 @@ layout: default
     <td>7</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
   </tr>
   <tr>
-    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Latent Dirichlet allocation, Kernel PCA</td>
+    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA</td>
   </tr>
   <tr>
     <td>9</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
@@ -183,7 +183,7 @@ layout: default
 (B). Find new variables (coordinate axes) orthogonal to each other and pointing to the direction of largest variances. 
 (C). Use new variables (coordinate axes) to describe object in a more concise way.
 
-### 2. Latent Dirichlet allocation
+### 2. Linear Discriminant Analysis
 
 ![LDA_1](./images/Models/LDA_1.png)
 ![LDA_2](./images/Models/LDA_2.png)
@@ -255,6 +255,8 @@ Reference:
 1. [http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 1. [https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/boosting?ex=5](https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/boosting?ex=5)
 1. [https://xgboost.readthedocs.io/en/latest/tutorials/model.html](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
+1. [https://pydml.readthedocs.io/en/latest/dml.lda.html](https://pydml.readthedocs.io/en/latest/dml.lda.html)
+1. [https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/](https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/)
 
 
 [BACK](./)
