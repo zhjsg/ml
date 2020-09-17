@@ -257,6 +257,6 @@ Reference:
 1. [https://xgboost.readthedocs.io/en/latest/tutorials/model.html](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
 1. [https://pydml.readthedocs.io/en/latest/dml.lda.html](https://pydml.readthedocs.io/en/latest/dml.lda.html)
 1. [https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/](https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/)
-
+1. [https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2)
 
 [BACK](./)
