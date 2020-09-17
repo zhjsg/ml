@@ -147,23 +147,27 @@ The 9 groups algorithms: Regression, Classification, Clustering, Association Rul
 * * *
 
 ## Scikit-Learn Algorithm Cheat Sheet
-![](./images/)
+![scikit-learn](./images/Algorithms/scikit-learn.png)
 
 ## SAS Algorithm Cheat Sheet
-![](./images/)
+![SAS](./images/Algorithms/SAS.png)
 
 ## Microsoft Azure Algorithm Cheat Sheet
-![](./images/)
+![Azure](./images/Algorithms/Azure.png)
 
 ## Data Science dojo Algorithm Cheat Sheet
-![](./images/)
+![datasciencedojo](./images/Algorithms/datasciencedojo.png)
 
 ## Blogspot Algorithm Cheat Sheet
-![](./images/)
+![blogspot](./images/Algorithms/blogspot.png)
 
 Reference:
 
 1. [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)
+1. [https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+1. [https://www.7wdata.be/big-data/which-machine-learning-algorithm-should-i-use/](https://www.7wdata.be/big-data/which-machine-learning-algorithm-should-i-use/)
+1. [https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
+1. [https://manisha-sirsat.blogspot.com/2019/11/machine-learning-overview.html](https://manisha-sirsat.blogspot.com/2019/11/machine-learning-overview.html)
 
 
 [BACK](./)
