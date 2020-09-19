@@ -258,5 +258,16 @@ Reference:
 1. [https://pydml.readthedocs.io/en/latest/dml.lda.html](https://pydml.readthedocs.io/en/latest/dml.lda.html)
 1. [https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/](https://www.skilledroots.com/lets-understand-linear-discriminant-analysis/)
 1. [https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2)
+1. [https://github.com/justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+1. [https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
+1. [http://www.deeplearningbook.org](http://www.deeplearningbook.org)
+1. [http://www.ai-junkie.com/ann/som/som1.html](http://www.ai-junkie.com/ann/som/som1.html)
+1. [https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
+1. [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. [https://www.gormanalysis.com/blog/gradient-boosting-explained/](https://www.gormanalysis.com/blog/gradient-boosting-explained/)
+1. [https://setosa.io/ev/principal-component-analysis/](https://setosa.io/ev/principal-component-analysis/)
+1. [http://neuralnetworksanddeeplearning.com/index.html](http://neuralnetworksanddeeplearning.com/index.html)
+1. [https://iamtrask.github.io](https://iamtrask.github.io)
+
 
 [BACK](./)
