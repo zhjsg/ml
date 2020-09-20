@@ -4,7 +4,7 @@ layout: default
 
 [BACK](./)
 
-The 9 groups algorithms: Regression, Classification, Clustering, Association Rule Learning, Dimensionality Reduction, Anomaly Detection, Deep Learning, Boosting, Regularization.
+The 11 groups algorithms: Regression, Classification, Clustering, Association Rule Learning, Reinforcement Learning, Natural Language Learning, Deep Learning,  Dimensionality Reduction, Boosting, Anomaly Detection, Regularization. 
 
 ## I. Regression
 
@@ -77,7 +77,33 @@ The 9 groups algorithms: Regression, Classification, Clustering, Association Rul
 1. Apriori
 1. Eclat
 
-## V. Dimensionality Reduction
+## V. Reinforcement Learning
+
+1. Upper Confidence Bound
+1. Thompson Sampling
+
+## VI. Natural Language Learning
+
+1. Bag of Words
+
+## VII. Deep Learning (Neural Networks)
+
+1. Artificial Neural Networks
+1. Convolutional Neural Network (CNN)
+1. Recurrent Neural Network (RNN)
+1. Self-Organizing Maps
+1. Boltzmann Machine
+1. AutoEncoders
+1. Restricted Boltzmann Machine (RBM)
+1. Stacked Autoencoder
+1. Perceptron
+1. Multilayer Perceptron (MLP)
+1. Deep Belief Network (DBN)
+1. Hopfield Networks
+1. Learning Vector Quantization (LVQ)
+1. Generative Adversarial Networks (GANs)
+
+## VIII. Dimensionality Reduction
 
 1. Principal Component Analysis (PCA)
 1. Linear Discriminant Analysis (LDA)
@@ -99,32 +125,7 @@ The 9 groups algorithms: Regression, Classification, Clustering, Association Rul
 1. Sammon Mapping
 1. Latent Dirichlet Analysis (LDA)
 
-## VI. Anomaly Detection
-
-1. PCA-Based Anomaly Detection
-1. Isolation Forest
-1. Once Class SVM
-1. Fast-MCD
-1. Local Outlier Factor (LOF)
-
-## VII. Deep Learning (Neural Networks)
-
-1. Artificial Neural Networks
-1. Convolutional Neural Network (CNN)
-1. Recurrent Neural Network (RNN)
-1. Self-Organizing Maps
-1. Boltzmann Machine
-1. AutoEncoders
-1. Restricted Boltzmann Machine (RBM)
-1. Stacked Autoencoder
-1. Perceptron
-1. Multilayer Perceptron (MLP)
-1. Deep Belief Network (DBN)
-1. Hopfield Networks
-1. Learning Vector Quantization (LVQ)
-1. Generative Adversarial Networks (GANs)
-
-## VIII. Boosting (Ensemble)
+## IX. Boosting (Ensemble)
 
 1. AdaBoost
 1. Gradient Boosting
@@ -138,7 +139,15 @@ The 9 groups algorithms: Regression, Classification, Clustering, Association Rul
 1. Boosted Decision Tree
 1. Stacked Generalization (Stacking)
 
-## IX. Regularization
+## X. Anomaly Detection
+
+1. PCA-Based Anomaly Detection
+1. Isolation Forest
+1. Once Class SVM
+1. Fast-MCD
+1. Local Outlier Factor (LOF)
+
+## XI. Regularization
 
 1. LASSO Regularization (Least Absolute Shrinkage and Selection Operator)
 1. Ridge Regularization
