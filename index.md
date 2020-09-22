@@ -4,19 +4,19 @@ layout: default
 
 [Machine Learning](./MachineLearning.html)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Models](./images/MLmodels.png)
 
 * * *
 
 [Deep Learning](./DeepLearning.html)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Models](./images/MLmodels.png)
 
 * * *
 
 [Natural Language Processing](./NaturalLanguageProcessing.html)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Models](./images/MLmodels.png)
 
 * * *
 [Models](./Models.html)
@@ -26,5 +26,7 @@ layout: default
 
 * * *
 [Machine Learning Algorithms](./Algorithms.html)
+
+![Models](./images/MLmodels.png)
 
 * * *
