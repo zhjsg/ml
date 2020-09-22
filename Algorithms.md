@@ -4,7 +4,7 @@ layout: default
 
 [BACK](./)
 
-The 11 groups algorithms: Regression, Classification, Clustering, Association Rule Learning, Reinforcement Learning, Natural Language Processing, Deep Learning,  Dimensionality Reduction, Boosting, Anomaly Detection, Regularization. 
+The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality Reduction, Reinforcement Learning, Deep Learning, Association Rule Learning, Boosting, Natural Language Processing, Anomaly Detection, Regularization.
 
 ## I. Regression
 
@@ -85,39 +85,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Gaussian Mixture Model (GMM)
 1. Spectral Clustering
 
-## IV. Association Rule Learning
-
-1. Apriori
-1. Eclat
-1. FP-Growth
-
-## V. Reinforcement Learning
-
-1. Upper Confidence Bound
-1. Thompson Sampling
-
-## VI. Natural Language Processing
-
-1. Bag of Words
-
-## VII. Deep Learning (Neural Networks)
-
-1. Artificial Neural Networks
-1. Convolutional Neural Network (CNN)
-1. Recurrent Neural Network (RNN)
-1. Self-Organizing Maps
-1. Boltzmann Machine
-1. AutoEncoders
-1. Restricted Boltzmann Machine (RBM)
-1. Stacked Autoencoder
-1. Perceptron
-1. Multilayer Perceptron (MLP)
-1. Deep Belief Network (DBN)
-1. Hopfield Networks
-1. Learning Vector Quantization (LVQ)
-1. Generative Adversarial Networks (GANs)
-
-## VIII. Dimensionality Reduction
+## IV. Dimensionality Reduction
 
 1. Principal Component Analysis (PCA)
 1. Linear Discriminant Analysis (LDA)
@@ -139,7 +107,35 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Sammon Mapping
 1. Latent Dirichlet Analysis (LDA)
 
-## IX. Boosting (Ensemble)
+## V. Reinforcement Learning
+
+1. Upper Confidence Bound
+1. Thompson Sampling
+
+## VI. Deep Learning (Neural Networks)
+
+1. Artificial Neural Networks
+1. Convolutional Neural Network (CNN)
+1. Recurrent Neural Network (RNN)
+1. Self-Organizing Maps
+1. Boltzmann Machine
+1. AutoEncoders
+1. Restricted Boltzmann Machine (RBM)
+1. Stacked Autoencoder
+1. Perceptron
+1. Multilayer Perceptron (MLP)
+1. Deep Belief Network (DBN)
+1. Hopfield Networks
+1. Learning Vector Quantization (LVQ)
+1. Generative Adversarial Networks (GANs)
+
+## VII. Association Rule Learning
+
+1. Apriori
+1. Eclat
+1. FP-Growth
+
+## VIII. Boosting (Ensemble)
 
 1. AdaBoost
 1. Gradient Boosting
@@ -152,6 +148,10 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Extremely Randomized Trees
 1. Boosted Decision Tree
 1. Stacked Generalization (Stacking)
+
+## IX. Natural Language Processing
+
+1. Bag of Words
 
 ## X. Anomaly Detection
 
