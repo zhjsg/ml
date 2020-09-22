@@ -24,7 +24,7 @@ layout: default
     <td>5</td><td>Reinforcement Learning</td><td>Upper Confidence Bound, Thompson Sampling</td>
   </tr>
   <tr>
-    <td>6</td><td>Natural Language Learning</td><td>Bag of Words</td>
+    <td>6</td><td>Natural Language Processing</td><td>Bag of Words</td>
   </tr>
   <tr>
     <td>7</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
