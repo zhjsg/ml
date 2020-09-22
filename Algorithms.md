@@ -4,7 +4,7 @@ layout: default
 
 [BACK](./)
 
-The 11 groups algorithms: Regression, Classification, Clustering, Association Rule Learning, Reinforcement Learning, Natural Language Learning, Deep Learning,  Dimensionality Reduction, Boosting, Anomaly Detection, Regularization. 
+The 11 groups algorithms: Regression, Classification, Clustering, Association Rule Learning, Reinforcement Learning, Natural Language Processing, Deep Learning,  Dimensionality Reduction, Boosting, Anomaly Detection, Regularization. 
 
 ## I. Regression
 
@@ -31,11 +31,17 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Locally Weighted Regression (LWL)
 1. Quantile Regression
 1. Partial Least Squares Regression
+1. K Nearest Neighbours (KNN) Regression
+1. Stochastic Gradient Descent (SGD) Regression
+1. Bagging (Bootstrap Aggregation) Regression
+1. Extremely Randomized Trees Regression
+1. Gradient Boosting Regression
+1. AdaBoost Regression
 
 ## II. Classification
 
 1. Logistic Regression
-1. K Nearest Neighbours (KNN)
+1. K Nearest Neighbours (KNN) Classification
 1. Support Vector Machine (SVM)
 1. Kernel SVM
 1. Naive Bayes
@@ -45,7 +51,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Bernoulli Naive Bayes
 1. Multinomial Naive Bayes
 1. Linear Support Vector Classifier (SVC)
-1. Stochastic Gradient Descent (SGD) Classifier
+1. Stochastic Gradient Descent (SGD) Classification
 1. Bayesian Network
 1. Linear Discriminant Analysis (LDA)
 1. Quadratic Discriminant Analysis (QDA)
@@ -54,6 +60,10 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. NuSVC
 1. Zero Rule (ZeroR)
 1. One Rule (OneR)
+1. Bagging (Bootstrap Aggregation) Classification
+1. Extremely Randomized Trees Classification
+1. Gradient Boosting Classification
+1. AdaBoost Classification
 
 ## III. Clustering
 
@@ -82,7 +92,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Upper Confidence Bound
 1. Thompson Sampling
 
-## VI. Natural Language Learning
+## VI. Natural Language Processing
 
 1. Bag of Words
 
