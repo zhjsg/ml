@@ -37,6 +37,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Extremely Randomized Trees Regression
 1. Gradient Boosting Regression
 1. AdaBoost Regression
+1. Boosted Decision Tree Regression
 
 ## II. Classification
 
@@ -47,6 +48,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Naive Bayes
 1. Decision Tree Classification
 1. Random Forest Classification
+1. Neural Network Classification
 1. Gaussian Naive Bayes
 1. Bernoulli Naive Bayes
 1. Multinomial Naive Bayes
@@ -64,6 +66,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 1. Extremely Randomized Trees Classification
 1. Gradient Boosting Classification
 1. AdaBoost Classification
+1. Boosted Decision Tree Classification
 
 ## III. Clustering
 
@@ -86,6 +89,7 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 
 1. Apriori
 1. Eclat
+1. FP-Growth
 
 ## V. Reinforcement Learning
 
