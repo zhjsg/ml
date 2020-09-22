@@ -184,6 +184,14 @@ The 11 groups algorithms: Regression, Classification, Clustering, Association Ru
 ## Blogspot Algorithm Cheat Sheet
 ![blogspot](./images/Algorithms/blogspot.png)
 
+## IBM Cheat Sheet
+![AMD_IBM](./images/Algorithms/AMD_IBM.png)
+
+## Manning Book Cheat Sheet
+![AI_Manning](./images/Algorithms/AI_Manning.png)
+![AMD_Manning](./images/Algorithms/AMD_Manning.png)
+![DRL_Manning](./images/Algorithms/DRL_Manning.png)
+
 Reference:
 
 1. [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)
@@ -191,6 +199,7 @@ Reference:
 1. [https://www.7wdata.be/big-data/which-machine-learning-algorithm-should-i-use/](https://www.7wdata.be/big-data/which-machine-learning-algorithm-should-i-use/)
 1. [https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 1. [https://manisha-sirsat.blogspot.com/2019/11/machine-learning-overview.html](https://manisha-sirsat.blogspot.com/2019/11/machine-learning-overview.html)
-
+1. [https://www.ibm.com/analytics/machine-learning](https://www.ibm.com/analytics/machine-learning)
+1. [https://livebook.manning.com/book/grokking-deep-reinforcement-learning/chapter-1/v-5/](https://livebook.manning.com/book/grokking-deep-reinforcement-learning/chapter-1/v-5/)
 
 [BACK](./)
