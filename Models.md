@@ -18,22 +18,22 @@ layout: default
     <td>3</td><td>Clustering</td><td>K-Means, Hierarchical Clustering</td>
   </tr>
   <tr>
-    <td>4</td><td>Association Rule Learning</td><td>Apriori, Eclat</td>
+    <td>4</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA</td>
   </tr>
   <tr>
     <td>5</td><td>Reinforcement Learning</td><td>Upper Confidence Bound, Thompson Sampling</td>
   </tr>
   <tr>
-    <td>6</td><td>Natural Language Processing</td><td>Bag of Words</td>
+    <td>6</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
   </tr>
   <tr>
-    <td>7</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
+    <td>7</td><td>Association Rule Learning</td><td>Apriori, Eclat</td>
   </tr>
   <tr>
-    <td>8</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA</td>
+    <td>8</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
   </tr>
   <tr>
-    <td>9</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
+    <td>9</td><td>Natural Language Processing</td><td>Bag of Words</td>
   </tr>
 </table>
 
@@ -114,15 +114,26 @@ layout: default
 
 ![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
-## IV. Association Rule Learning
+## IV. Dimensionality Reduction
 
-### 1. Apriori
+### 1. Principal Component Analysis
 
-![Apriori_1](./images/Models/Apriori_1.png)
+![PCA_1](./images/Models/PCA_1.png)
+![PCA_2](./images/Models/PCA_2.png)
 
-### 2. Eclat
+(A). A simple object described by a complex set of variables (or coordinate system). 
+(B). Find new variables (coordinate axes) orthogonal to each other and pointing to the direction of largest variances. 
+(C). Use new variables (coordinate axes) to describe object in a more concise way.
 
-![Eclat_1](./images/Models/Eclat_1.png)
+### 2. Linear Discriminant Analysis
+
+![LDA_1](./images/Models/LDA_1.png)
+![LDA_2](./images/Models/LDA_2.png)
+
+### 3. Kernel PCA
+
+![KernelPCA_1](./images/Models/KernelPCA_1.png)
+![KernelPCA_2](./images/Models/KernelPCA_2.png)
 
 ## V. Reinforcement Learning
 
@@ -134,14 +145,7 @@ layout: default
 
 ![ThompsonSampling_1](./images/Models/ThompsonSampling_1.png)
 
-## VI. Natural Language Processing
-
-### 1. Bag of words
-
-![BagOfWords_1](./images/Models/BagOfWords_1.png)
-![BagOfWords_2](./images/Models/BagOfWords_2.png)
-
-## VII. Deep Learning
+## VI. Deep Learning
 
 ### 1. Artificial Neural Network
 
@@ -172,28 +176,17 @@ layout: default
 ![Autoencoder_1](./images/Models/Autoencoder_1.png)
 ![Autoencoder_2](./images/Models/Autoencoder_2.png)
 
-## VIII. Dimensionality Reduction
+## VII. Association Rule Learning
 
-### 1. Principal Component Analysis
+### 1. Apriori
 
-![PCA_1](./images/Models/PCA_1.png)
-![PCA_2](./images/Models/PCA_2.png)
+![Apriori_1](./images/Models/Apriori_1.png)
 
-(A). A simple object described by a complex set of variables (or coordinate system). 
-(B). Find new variables (coordinate axes) orthogonal to each other and pointing to the direction of largest variances. 
-(C). Use new variables (coordinate axes) to describe object in a more concise way.
+### 2. Eclat
 
-### 2. Linear Discriminant Analysis
+![Eclat_1](./images/Models/Eclat_1.png)
 
-![LDA_1](./images/Models/LDA_1.png)
-![LDA_2](./images/Models/LDA_2.png)
-
-### 3. Kernel PCA
-
-![KernelPCA_1](./images/Models/KernelPCA_1.png)
-![KernelPCA_2](./images/Models/KernelPCA_2.png)
-
-## IX. Boosting
+## VIII. Boosting
 
 ### 1. AdaBoost
 
@@ -207,6 +200,13 @@ layout: default
 ### 3. XGBoost
 
 ![XGBoost_1](./images/Models/XGBoost_1.png)
+
+## IX. Natural Language Processing
+
+### 1. Bag of words
+
+![BagOfWords_1](./images/Models/BagOfWords_1.png)
+![BagOfWords_2](./images/Models/BagOfWords_2.png)
 
 * * *
 
