@@ -2,6 +2,17 @@
 layout: default
 ---
 
+[Models](./Models.html)
+
+![Models](./images/MLmodels.png)
+
+* * *
+[Machine Learning Algorithms](./Algorithms.html)
+
+![Models](./images/MLmodels.png)
+
+* * *
+
 [Machine Learning](./MachineLearning.html)
 
 ![Models](./images/MLmodels.png)
@@ -17,16 +28,4 @@ layout: default
 [Natural Language Processing](./NaturalLanguageProcessing.html)
 
 ![Models](./images/MLmodels.png)
-
-* * *
-[Models](./Models.html)
-
-![Models](./images/MLmodels.png)
-
-
-* * *
-[Machine Learning Algorithms](./Algorithms.html)
-
-![Models](./images/MLmodels.png)
-
 * * *
