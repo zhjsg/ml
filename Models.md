@@ -9,7 +9,7 @@ layout: default
     <th>ID</th><th>Category</th><th>Models</th>
   </tr>
   <tr>
-    <td>1</td><td>Regression</td><td>Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, Ridge Regression, Lasso Regression</td>
+    <td>1</td><td>Regression</td><td>Simple Linear Regression, Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression, Lasso Regression, Ridge Regression</td>
   </tr>
   <tr>
     <td>2</td><td>Classification</td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
@@ -65,13 +65,13 @@ layout: default
 
 ![RandomForestRegression_1](./images/Models/RandomForestRegression_1.png)
 
-### 7. Ridge Regression
-
-![RidgeRegression_1](./images/Models/RidgeRegression_1.png)
-
-### 8. Lasso Regression
+### 7. Lasso Regression
 
 ![LassoRegression_1](./images/Models/LassoRegression_1.png)
+
+### 8. Ridge Regression
+
+![RidgeRegression_1](./images/Models/RidgeRegression_1.png)
 
 ## II. Classification
 
