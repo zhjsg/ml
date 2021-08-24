@@ -15,22 +15,22 @@ layout: default
     <td>2</td><td>Classification</td><td>Logistic Regression, K Nearest Neighbours, Support Vector Machine, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification</td>
   </tr>
   <tr>
-    <td>3</td><td>Clustering</td><td>K-Means, Hierarchical Clustering</td>
+    <td>3</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
   </tr>
   <tr>
-    <td>4</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA</td>
+    <td>4</td><td>Clustering</td><td>K-Means, Hierarchical Clustering</td>
   </tr>
   <tr>
-    <td>5</td><td>Reinforcement Learning</td><td>Upper Confidence Bound, Thompson Sampling</td>
+    <td>5</td><td>Association Rule Learning</td><td>Apriori, Eclat</td>
   </tr>
   <tr>
-    <td>6</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
+    <td>6</td><td>Dimensionality Reduction</td><td>Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA</td>
   </tr>
   <tr>
-    <td>7</td><td>Association Rule Learning</td><td>Apriori, Eclat</td>
+    <td>7</td><td>Reinforcement Learning</td><td>Upper Confidence Bound, Thompson Sampling</td>
   </tr>
   <tr>
-    <td>8</td><td>Boosting</td><td>AdaBoost, Gradient Boosting, XGBoost</td>
+    <td>8</td><td>Deep Learning</td><td>Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Self-Organizing Maps, Boltzmann Machines, AutoEncoders</td>
   </tr>
   <tr>
     <td>9</td><td>Natural Language Processing</td><td>Bag of Words</td>
@@ -104,7 +104,22 @@ layout: default
 
 ![RandomForestClassification_1](./images/Models/RandomForestClassification_1.png)
 
-## III. Clustering
+## III. Boosting
+
+### 1. AdaBoost
+
+![AdaBoost_1](./images/Models/AdaBoost_1.png)
+![AdaBoost_2](./images/Models/AdaBoost_2.png)
+
+### 2. Gradient Boosting
+
+![GradientBoosting_1](./images/Models/GradientBoosting_1.png)
+
+### 3. XGBoost
+
+![XGBoost_1](./images/Models/XGBoost_1.png)
+
+## IV. Clustering
 
 ### 1. K-Means
 
@@ -114,7 +129,17 @@ layout: default
 
 ![HierarchicalClustering_1](./images/Models/HierarchicalClustering_1.png)
 
-## IV. Dimensionality Reduction
+## V. Association Rule Learning
+
+### 1. Apriori
+
+![Apriori_1](./images/Models/Apriori_1.png)
+
+### 2. Eclat
+
+![Eclat_1](./images/Models/Eclat_1.png)
+
+## VI. Dimensionality Reduction
 
 ### 1. Principal Component Analysis
 
@@ -135,7 +160,7 @@ layout: default
 ![KernelPCA_1](./images/Models/KernelPCA_1.png)
 ![KernelPCA_2](./images/Models/KernelPCA_2.png)
 
-## V. Reinforcement Learning
+## VII. Reinforcement Learning
 
 ### 1. Upper Confidence Bound
 
@@ -145,7 +170,7 @@ layout: default
 
 ![ThompsonSampling_1](./images/Models/ThompsonSampling_1.png)
 
-## VI. Deep Learning
+## VIII. Deep Learning
 
 ### 1. Artificial Neural Network
 
@@ -175,31 +200,6 @@ layout: default
 
 ![Autoencoder_1](./images/Models/Autoencoder_1.png)
 ![Autoencoder_2](./images/Models/Autoencoder_2.png)
-
-## VII. Association Rule Learning
-
-### 1. Apriori
-
-![Apriori_1](./images/Models/Apriori_1.png)
-
-### 2. Eclat
-
-![Eclat_1](./images/Models/Eclat_1.png)
-
-## VIII. Boosting
-
-### 1. AdaBoost
-
-![AdaBoost_1](./images/Models/AdaBoost_1.png)
-![AdaBoost_2](./images/Models/AdaBoost_2.png)
-
-### 2. Gradient Boosting
-
-![GradientBoosting_1](./images/Models/GradientBoosting_1.png)
-
-### 3. XGBoost
-
-![XGBoost_1](./images/Models/XGBoost_1.png)
 
 ## IX. Natural Language Processing
 
