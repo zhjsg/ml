@@ -4,7 +4,7 @@ layout: default
 
 [BACK](./)
 
-The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality Reduction, Reinforcement Learning, Deep Learning, Association Rule Learning, Boosting, Natural Language Processing, Anomaly Detection, Regularization.
+The 11 groups algorithms: Regression, Classification, Boosting, Clustering, Association Rule Learning, Dimensionality Reduction, Reinforcement Learning, Deep Learning, Natural Language Processing, Anomaly Detection, Regularization.
 
 ## I. Regression
 
@@ -68,7 +68,21 @@ The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality
 1. AdaBoost Classification
 1. Boosted Decision Tree Classification
 
-## III. Clustering
+## III. Boosting (Ensemble)
+
+1. AdaBoost
+1. Gradient Boosting
+1. XGBoost (Extreme Gradient Boosting)
+1. Category Boosting (CatBoost)
+1. Random Forest
+1. Bagging (Bootstrap Aggregation)
+1. Gradient Boosted Regression Trees
+1. Voting Classifier
+1. Extremely Randomized Trees
+1. Boosted Decision Tree
+1. Stacked Generalization (Stacking)
+
+## IV. Clustering
 
 1. K-Means Clustering
 1. Hierarchical Clustering
@@ -85,7 +99,13 @@ The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality
 1. Gaussian Mixture Model (GMM)
 1. Spectral Clustering
 
-## IV. Dimensionality Reduction
+## V. Association Rule Learning
+
+1. Apriori
+1. Eclat
+1. FP-Growth
+
+## VI. Dimensionality Reduction
 
 1. Principal Component Analysis (PCA)
 1. Linear Discriminant Analysis (LDA)
@@ -107,12 +127,12 @@ The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality
 1. Sammon Mapping
 1. Latent Dirichlet Analysis (LDA)
 
-## V. Reinforcement Learning
+## VII. Reinforcement Learning
 
 1. Upper Confidence Bound
 1. Thompson Sampling
 
-## VI. Deep Learning (Neural Networks)
+## VIII. Deep Learning (Neural Networks)
 
 1. Artificial Neural Networks
 1. Convolutional Neural Network (CNN)
@@ -128,26 +148,6 @@ The 11 groups algorithms: Regression, Classification, Clustering, Dimensionality
 1. Hopfield Networks
 1. Learning Vector Quantization (LVQ)
 1. Generative Adversarial Networks (GANs)
-
-## VII. Association Rule Learning
-
-1. Apriori
-1. Eclat
-1. FP-Growth
-
-## VIII. Boosting (Ensemble)
-
-1. AdaBoost
-1. Gradient Boosting
-1. XGBoost (Extreme Gradient Boosting)
-1. Category Boosting (CatBoost)
-1. Random Forest
-1. Bagging (Bootstrap Aggregation)
-1. Gradient Boosted Regression Trees
-1. Voting Classifier
-1. Extremely Randomized Trees
-1. Boosted Decision Tree
-1. Stacked Generalization (Stacking)
 
 ## IX. Natural Language Processing
 
