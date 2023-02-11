@@ -15,7 +15,7 @@ layout: default
     <td>2</td><td>Java</td><td>19.0.2</td><td>https://www.java.com/releases/</td>
   </tr>
   <tr>
-    <td>3</td><td>Scala</td><td>3.2.2, 2.13.10</td><td>https://www.scala-lang.org/download/all.html</td>
+    <td>3</td><td>Scala</td><td>2.13.10, 3.2.2</td><td>https://www.scala-lang.org/download/all.html</td>
   </tr>
   <tr>
     <td>4</td><td>Apache Spark</td><td>3.3.1</td><td>https://spark.apache.org/downloads.html</td>
@@ -42,10 +42,10 @@ layout: default
     <td>11</td><td>Apache Superset</td><td>2.0.1</td><td>https://pypi.org/project/apache-superset/#history</td>
   </tr>
   <tr>
-    <td>12</td><td></td><td></td><td></td>
+    <td>12</td><td>Apache Kafka</td><td>3.4.0</td><td>https://kafka.apache.org/downloads</td>
   </tr>
   <tr>
-    <td>13</td><td></td><td></td><td></td>
+    <td>13</td><td>MLflow</td><td>2.1.1</td><td>https://pypi.org/project/mlflow/#history</td>
   </tr>
   <tr>
     <td>14</td><td></td><td></td><td></td>
