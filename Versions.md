@@ -12,7 +12,7 @@ layout: default
     <td>1</td><td>Python</td><td>3.11.1</td><td>https://www.python.org/doc/versions/</td>
   </tr>
   <tr>
-    <td>2</td><td>Java</td><td>19.0.2</td><td>https://www.java.com/releases/</td>
+    <td>2</td><td>Java</td><td>8, 19.0.2</td><td>https://www.java.com/releases/</td>
   </tr>
   <tr>
     <td>3</td><td>Scala</td><td>2.13.10, 3.2.2</td><td>https://www.scala-lang.org/download/all.html</td>
